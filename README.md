@@ -32,10 +32,10 @@ A multi-step customer experience analytics dashboard powered by **Local LLMs** (
    ```bash
    ollama pull qwen2.5
 
-## 🎬 Video Demo & Walkthrough
+## 🎬 Project Video & Walkthrough
 
-Watch the full system demonstration, workflow breakdown, and architecture overview on Google Drive:
+Watch the full system demonstration, architecture explanation, and live batch analysis in action:
 
-[![Watch Project Demo](https://img.shields.io/badge/Google_Drive-Watch_Full_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]((https://drive.google.com/file/d/1yVVwlgmNSwVPqULwltH2jUav5C7QQ2yy/view?usp=sharing))
+[![Watch Project Demo](https://img.shields.io/badge/Google_Drive-Watch_Project_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yVVwlgmNSwVPqULwltH2jUav5C7QQ2yy/view?usp=sharing)
 
-> 💡 **Tip:** You can download `sample_reviews.csv` from this repository to test the **Batch Analysis** feature yourself as shown in the video!
+> 💡 **Quick Test:** You can download the included [`sample_reviews.csv`](./sample_reviews.csv) file from this repository to test the **Batch CSV Analysis** feature locally as demonstrated in the video.
