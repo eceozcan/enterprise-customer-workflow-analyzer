@@ -38,4 +38,3 @@ Watch the full system demonstration, architecture explanation, and live batch an
 
 [![Watch Project Demo](https://img.shields.io/badge/Google_Drive-Watch_Project_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yVVwlgmNSwVPqULwltH2jUav5C7QQ2yy/view?usp=sharing)
 
-> 💡 **Quick Test:** You can download the included [`sample_reviews.csv`](./sample_reviews.csv) file from this repository to test the **Batch CSV Analysis** feature locally as demonstrated in the video.
